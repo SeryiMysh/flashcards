@@ -1,0 +1,9 @@
+node_modules/
+.idea/
+
+Topics/
+Flashcards/Design/
+Flashcards/On the flip side/
+Flashcards/Setting up/
+
+*.yaml
